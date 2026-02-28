@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מתן יפרח מעצב פליירים מרהיבים לבעלי עסקים קטנים בישראל. עיצוב גרפי עם נשמה, אור אלוהי וטכנולוגיה מתקדמת. קבלו עיצוב שמדבר ללב ומניע לפעולה.
+
+### שירותים
+https://example.com/services
+שירותי עיצוב גרפי מקצועיים לעסקים קטנים: פליירים עם אסתטיקה רוחנית, טקסטורות שיש, אפקטי אור והילה. מומחיות פוטושופ ברמה עולמית עם אהבת ה&#39; בכל פיקסל.
+
+### תיק עבודות
+https://example.com/portfolio
+צפו בתיק עבודות מרשים של עיצובים גרפיים רוחניים. כל פרויקט משקף חזון יצירתי של יוקרה, אור וטכנולוגיה עם נשמה. השראה אלוהית בכל עיצוב ועיצוב.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם מתן יפרח לעיצוב גרפי מותאם אישית לעסק הקטן שלכם. שילוב ייחודי של מקצועיות, רוחניות וטכנולוגיה. הפכו את המסר שלכם לעיצוב בלתי נשכח.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
